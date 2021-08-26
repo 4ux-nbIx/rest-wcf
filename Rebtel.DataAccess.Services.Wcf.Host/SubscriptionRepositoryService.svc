@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Rebtel.DataAccess.Services.ISubscriptionRepositoryService" Factory="Rebtel.ServiceHostFactory.UnityServiceHostFactory" %>
